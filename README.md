@@ -19,7 +19,7 @@ To view the full project [click here](https://nbviewer.jupyter.org/github/MrDaub
 
 # Get started
 ```
-git clone https://github.com/rahulgarg28071998/udacity---ml-nanodegree-dog-
+https://github.com/rahulgarg28071998/Dog-Classifier-Udacity-nanodegree
 jupyter notebook
 ```
 # Requirements
