@@ -14,6 +14,7 @@ This repo contains all my work for Project 1 of Udacity's Neural Network Foundat
 
 ## Data downloadable on:
 https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+
 https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
 (no need to download , its taken care in the notebook)
 
