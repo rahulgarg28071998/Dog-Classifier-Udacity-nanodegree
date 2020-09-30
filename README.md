@@ -28,7 +28,7 @@ As a IT minor student of MAIT Delhi and a long-time self-taught learner, I have 
 ### Conclusion
 This project introduced me to what a Convolutional Nerual Network is, how its architecture is made with filters, pooling and dropout layers and the benefits that can be gained when taking advantage of transfer learning.
 <br><br>
-To view the full project [click here](https://nbviewer.jupyter.org/github/MrDaubinet/Dog-Breed-Classifier/blob/master/dog_app.ipynb)
+To view the full project [click here](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JyWFFhU0nWacbkleapXcBpp89O62eAsR?usp=sharing)
 
 # Get started
 ```
